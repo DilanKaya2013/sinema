@@ -1,0 +1,12 @@
+C:\Users\student\Desktop\Ahmet\ntp\sinema-proje\sinema-proje\bin\Debug\sinema-proje.exe.config
+C:\Users\student\Desktop\Ahmet\ntp\sinema-proje\sinema-proje\bin\Debug\sinema-proje.exe
+C:\Users\student\Desktop\Ahmet\ntp\sinema-proje\sinema-proje\bin\Debug\sinema-proje.pdb
+C:\Users\student\Desktop\Ahmet\ntp\sinema-proje\sinema-proje\obj\Debug\sinema-proje.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Ahmet\ntp\sinema-proje\sinema-proje\obj\Debug\sinema_proje.Form1.resources
+C:\Users\student\Desktop\Ahmet\ntp\sinema-proje\sinema-proje\obj\Debug\sinema_proje.Properties.Resources.resources
+C:\Users\student\Desktop\Ahmet\ntp\sinema-proje\sinema-proje\obj\Debug\sinema-proje.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Ahmet\ntp\sinema-proje\sinema-proje\obj\Debug\sinema-proje.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Ahmet\ntp\sinema-proje\sinema-proje\obj\Debug\sinema-proje.exe
+C:\Users\student\Desktop\Ahmet\ntp\sinema-proje\sinema-proje\obj\Debug\sinema-proje.pdb
+C:\Users\student\Desktop\Ahmet\ntp\sinema-proje\sinema-proje\bin\Debug\MySql.Data.dll
+C:\Users\student\Desktop\Ahmet\ntp\sinema-proje\sinema-proje\obj\Debug\sinema-p.84D3DB74.Up2Date
